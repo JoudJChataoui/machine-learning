@@ -15,3 +15,13 @@ With the above dependencies you can launch any jupyter notebook. For instance:
 ```
 jupyter notebook digit-classifier/Digit\ classifier.ipynb
 ```
+
+## Viewing the notebooks
+You can simply navigate the notebooks and Github will render them in your browser as html.
+
+However, you may sometimes run into an issue saying *Sorry, something went wrong. Reload?* after the UI showed a spinner. This is likely due to an issue with Github.
+
+**A workaround to access the notebooks** without running them locally would be to view them on https://nbviewer.jupyter.org/.
+* Go to https://nbviewer.jupyter.org/
+* Grab the Github link for the Jupyter notebook you want to see. For instance the [Decision Tree Iris classifier](https://github.com/JoudJChataoui/machine-learning/blob/master/iris-classifier/Decision%20Tree%20Iris.ipynb)
+* Paste it in the viewer. This will take you to a page where the notebook is rendered [like this one](https://nbviewer.jupyter.org/github/JoudJChataoui/machine-learning/blob/master/iris-classifier/Decision%20Tree%20Iris.ipynb)
