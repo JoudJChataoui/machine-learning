@@ -1,4 +1,4 @@
-# machine-learning
+# Machine Learning projects
 This repository contains Jupyter notebooks where ML models have been trained using vanilla Python and Numpy.
 
 Implementing those algorithms from scratch is a good exercise to strenghten one's grasp on the underlying math.
